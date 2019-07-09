@@ -1,7 +1,7 @@
 variables:
-  azureSubscription: name-of-your-azure-subscription
-  resourcegroup: name-of-your-resource-group
-  location: location of your resources
+  azureSubscription: 'abissac'
+  resourcegroup: 'TailwindTraderWeb'
+  location: 'West US'
   ImageName: website
 
 steps:
